@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Miapp_Usuario</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Fecha">Fecha de nacimiento dd/mm/yyyy</string>
+    <string name="Telefono">Telefono</string>
+    <string name="email">email</string>
+    <string name="descripcion">Descripcion de Contacto</string>
+    <string name="boton_siguiente">Siguiente</string>
+    <string name="boton_editar">editar</string>
+</resources>
